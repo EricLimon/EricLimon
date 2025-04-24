@@ -18,7 +18,7 @@ Understanding and predicting which online sessions are likely to result in a pur
 * **Resource Allocation:** Marketing efforts and website resources can be focused on users who are more likely to make a purchase, leading to more efficient spending.
 * **Customer Understanding:** Analyzing the features that are strong predictors of purchase intention can provide valuable insights into customer behavior and preferences.
 
-## How you approached it
+## How I approached it
 
 The approach to this project involved several key steps:
 
