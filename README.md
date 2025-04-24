@@ -5,6 +5,7 @@
 [![forthebadge](https://img.shields.io/badge/Scikit--Learn-orange.svg)](https://scikit-learn.org/stable/)
 [![forthebadge](https://img.shields.io/badge/Seaborn-lightgrey.svg)](https://seaborn.pydata.org/)
 [![forthebadge](https://img.shields.io/badge/Matplotlib-lightgrey.svg)](https://matplotlib.org/)
+[![forthebadge](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 ## What it does
 
